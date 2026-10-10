@@ -1,4 +1,4 @@
-# 🚗 Automatic Number Plate Recognition (ANPR)
+# 🚗 Number Plate Recognition 
 
 YOLOv8 ve Streamlit tabanlı iki aşamalı plaka tanıma uygulaması:
 1. **Plaka Tespiti (`plate_detection.pt`):** Araç üzerinden plaka bölgesini tespit edip kırpar.
